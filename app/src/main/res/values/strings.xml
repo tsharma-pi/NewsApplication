@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">PracticeApplication</string>
+  <string name="action_settings">Settings</string>
+  <string name="title_activity_news">NewsActivity</string>
+  <string name="title_activity_news_detail">NewsDetailActivity</string>
+  <string name="url">url</string>
+  <string name="no_content_for_this_news">No content for this news</string>
+</resources>
